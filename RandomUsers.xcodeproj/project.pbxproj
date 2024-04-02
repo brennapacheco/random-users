@@ -14,6 +14,7 @@
 		657C916A2BBC154400384440 /* RandomUsersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91692BBC154400384440 /* RandomUsersTests.swift */; };
 		657C91742BBC154400384440 /* RandomUsersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91732BBC154400384440 /* RandomUsersUITests.swift */; };
 		657C91762BBC154400384440 /* RandomUsersUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91752BBC154400384440 /* RandomUsersUITestsLaunchTests.swift */; };
+		657C91832BBC181200384440 /* UserFetchingClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91822BBC181200384440 /* UserFetchingClient.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		657C916F2BBC154400384440 /* RandomUsersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RandomUsersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		657C91732BBC154400384440 /* RandomUsersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomUsersUITests.swift; sourceTree = "<group>"; };
 		657C91752BBC154400384440 /* RandomUsersUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomUsersUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		657C91822BBC181200384440 /* UserFetchingClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserFetchingClient.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				657C91572BBC154200384440 /* RandomUsersApp.swift */,
 				657C91592BBC154200384440 /* ContentView.swift */,
+				657C91822BBC181200384440 /* UserFetchingClient.swift */,
 				657C915B2BBC154300384440 /* Assets.xcassets */,
 				657C915D2BBC154300384440 /* RandomUsers.entitlements */,
 				657C915E2BBC154300384440 /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				657C915A2BBC154200384440 /* ContentView.swift in Sources */,
 				657C91582BBC154200384440 /* RandomUsersApp.swift in Sources */,
+				657C91832BBC181200384440 /* UserFetchingClient.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
