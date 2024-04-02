@@ -16,6 +16,7 @@
 		657C91762BBC154400384440 /* RandomUsersUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91752BBC154400384440 /* RandomUsersUITestsLaunchTests.swift */; };
 		657C91832BBC181200384440 /* UserFetchingClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91822BBC181200384440 /* UserFetchingClient.swift */; };
 		657C91852BBC566800384440 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91842BBC566800384440 /* UserData.swift */; };
+		657C91872BBC591100384440 /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91862BBC591100384440 /* UserView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		657C91752BBC154400384440 /* RandomUsersUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomUsersUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		657C91822BBC181200384440 /* UserFetchingClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserFetchingClient.swift; sourceTree = "<group>"; };
 		657C91842BBC566800384440 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		657C91862BBC591100384440 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				657C91592BBC154200384440 /* ContentView.swift */,
 				657C91822BBC181200384440 /* UserFetchingClient.swift */,
 				657C91842BBC566800384440 /* UserData.swift */,
+				657C91862BBC591100384440 /* UserView.swift */,
 				657C915B2BBC154300384440 /* Assets.xcassets */,
 				657C915D2BBC154300384440 /* RandomUsers.entitlements */,
 				657C915E2BBC154300384440 /* Preview Content */,
@@ -267,6 +270,7 @@
 			files = (
 				657C915A2BBC154200384440 /* ContentView.swift in Sources */,
 				657C91582BBC154200384440 /* RandomUsersApp.swift in Sources */,
+				657C91872BBC591100384440 /* UserView.swift in Sources */,
 				657C91852BBC566800384440 /* UserData.swift in Sources */,
 				657C91832BBC181200384440 /* UserFetchingClient.swift in Sources */,
 			);
