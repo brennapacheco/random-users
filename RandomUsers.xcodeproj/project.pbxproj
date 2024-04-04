@@ -17,6 +17,7 @@
 		657C91832BBC181200384440 /* UserFetchingClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91822BBC181200384440 /* UserFetchingClient.swift */; };
 		657C91852BBC566800384440 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91842BBC566800384440 /* UserData.swift */; };
 		657C91872BBC591100384440 /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91862BBC591100384440 /* UserView.swift */; };
+		657C91892BBEBDFC00384440 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657C91882BBEBDFC00384440 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		657C91822BBC181200384440 /* UserFetchingClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserFetchingClient.swift; sourceTree = "<group>"; };
 		657C91842BBC566800384440 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		657C91862BBC591100384440 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
+		657C91882BBEBDFC00384440 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		657C914B2BBC154200384440 = {
 			isa = PBXGroup;
 			children = (
+				657C91882BBEBDFC00384440 /* User.swift */,
 				657C91562BBC154200384440 /* RandomUsers */,
 				657C91682BBC154400384440 /* RandomUsersTests */,
 				657C91722BBC154400384440 /* RandomUsersUITests */,
@@ -270,6 +273,7 @@
 			files = (
 				657C915A2BBC154200384440 /* ContentView.swift in Sources */,
 				657C91582BBC154200384440 /* RandomUsersApp.swift in Sources */,
+				657C91892BBEBDFC00384440 /* User.swift in Sources */,
 				657C91872BBC591100384440 /* UserView.swift in Sources */,
 				657C91852BBC566800384440 /* UserData.swift in Sources */,
 				657C91832BBC181200384440 /* UserFetchingClient.swift in Sources */,
