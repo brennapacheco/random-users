@@ -8,5 +8,5 @@ You can clone this repository with the command below or download as ZIP.
 Open the file with the `.xcodeproj` extension in XCode and build the application.
 
 ```
-$ git clone https://github.com/brennapacheco/code-history
+$ git clone https://github.com/brennapacheco/random-users
 ```
